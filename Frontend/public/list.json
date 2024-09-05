@@ -1,0 +1,145 @@
+[
+	{
+		"id": 1,
+		"name": "Story Book",
+		"title": "Harry Potter and the Chamber of Secrets",
+		"price": 0,
+		"category": "free",
+		"image": "https://images.moviesanywhere.com/51d05e3bd56acb23ba41a4db49633d98/743b4280-5ea4-4468-8d63-d565d480bee2.jpg"
+	},
+
+	{
+		"id": 2,
+		"name": "Action Book",
+		"title": "The Gate Keeper",
+		"price": 20,
+		"category": "action",
+		"image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646029070l/58724579.jpg"
+	},
+
+	{
+		"id": 3,
+		"name": "Adventure Book",
+		"title": "The Tales of the Thames",
+		"price": 30,
+		"category": "explore",
+		"image": "https://cdn.kobo.com/book-images/ecf91e25-a8d3-4980-abdd-f763f37c4157/1200/1200/False/the-tales-of-the-thames-thriller-action-adventure-books-boxed-set.jpg"
+	},
+
+	{
+		"id": 4,
+		"name": "Comedy Book",
+		"title": "I Can't Make This Up",
+		"price": 0,
+		"category": "free",
+		"image": "https://m.media-amazon.com/images/I/516mPcdVFBL._SL500_.jpg"
+	},
+
+	{
+		"id": 5,
+		"name": "Horror Book",
+		"title": "Horrors of The Night",
+		"price": 0,
+		"category": "free",
+		"image": "https://m.media-amazon.com/images/I/51HmDzZYODS._SY1000_.jpg"
+	},
+
+	{
+		"id": 6,
+		"name": "Fantasy Book",
+		"title": "Howl's Moving Castle",
+		"price": 0,
+		"category": "free",
+		"image": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/55a17355-6adc-49fa-b154-5f6971c09a1e/0007299265.01._SCLZZZZZZZ_SX500_.jpg?w=270&h=415&auto=format&bg=%23efefef&fit=crop"
+	},
+
+	{
+		"id": 7,
+		"name": "Thriller Book",
+		"title": "Only Murder",
+		"price": 25,
+		"category": "thrill",
+		"image": "https://m.media-amazon.com/images/I/71fSQq9M+vL._AC_UF1000,1000_QL80_.jpg"
+	},
+
+	{
+		"id": 8,
+		"name": "Romance Book",
+		"title": "Always Be My Duchess",
+		"price": 10,
+		"category": "romantic",
+		"image": "https://contentcafecloud.baker-taylor.com/Jacket.svc/D65D0665-050A-487B-9908-16E6D8FF5C3E/9781538737712/Medium/Empty"
+	},
+
+	{
+		"id": 9,
+		"name": "Sci-Fi Book",
+		"title": "The Last Watch",
+		"price": 0,
+		"category": "free",
+		"image": "https://sclsnj.org/wp-content/uploads/Last-Watch.jpg"
+	},
+
+	{
+		"id": 10,
+		"name": "Suspense Book",
+		"title": "Then She Was Gone",
+		"price": 8,
+		"category": "mystery",
+		"image": "https://img.buzzfeed.com/buzzfeed-static/static/2021-12/20/0/asset/44f5c58f5188/sub-buzz-5961-1639958921-3.jpg?downsize=900:*&output-format=auto&output-quality=auto"
+	},
+
+	{
+		"id": 11,
+		"name": "Short Story Book",
+		"title": "Normal Rules Don't Apply",
+		"price": 13,
+		"category": "Short",
+		"image": "https://thumbs.readings.com.au/yVai2JAPc2-NgwsaE-Yy6s3cqsE=/0x500/https://readings-v4-production.s3.amazonaws.com/assets/4ec/dd4/925/4ecdd4925fc23591defd1cac39db1d1098be2537/978085752919020230417-2-jrsbrk.jpg"
+	},
+
+	{
+		"id": 12,
+		"name": "Crime Fiction Book",
+		"title": "The Clinic",
+		"price": 18,
+		"category": "crime",
+		"image": "https://images.seattletimes.com/wp-content/uploads/2024/01/01052024_Book_Cover-The_Clinic_173854.jpg?d=1560x2340"
+	},
+
+	{
+		"id": 13,
+		"name": "Non-fiction Book",
+		"title": "Pathfinders",
+		"price": 0,
+		"category": "free",
+		"image": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/5dbdb172-0005-4075-a7b6-7d919dc9fa6f/Pathfinders%20-%20JL%20Collins%20-%20Book%20Cover.jpg?w=270&h=420&auto=format&bg=%23efefef&fit=crop"
+	},
+
+	{
+		"id": 14,
+		"name": "Drama Book",
+		"title": "After The End",
+		"price": 15,
+		"category": "Drama",
+		"image": "https://www.writersdigest.com/.image/t_share/MTc1ODg5MjYyMTc5MjYzNTQz/after-the-end-pbk.jpg"
+	},
+
+	{
+		"id": 15,
+		"name": "Mythology Book",
+		"title": "The Palace of Illusions",
+		"price": 25,
+		"category": "Mythology",
+		"image": "https://img.etimg.com/photo/msid-101010144,imgsize-925362/ThePalaceofIllusionsbyChitraBanerjeeDivakaruni.jpg"
+	},
+
+	{
+		"id": 16,
+		"name": "Travel Literature Book",
+		"title": "The Alchemist",
+		"price": 8,
+		"category": "Travel",
+		"image": "https://media.nomadicmatt.com/booknewsletter/TheAlchemist.jpg"
+	}
+]
